@@ -1,0 +1,5 @@
+account_id,timestamp,event_ref,detail1,detail2,evidence_type
+800606860,2022-09-09 00:12:00,A0002135,54dc61dd983dc2f0,Russia,access_anomaly
+800606860,2022-09-09 00:40:00,-,OLDBEN144657,SYNTHBEN990895,beneficiary_change
+800606860,2022-09-09 02:12:00,IBM0061680,34464.78,SYNTHBEN934891,fraudulent_transaction
+800606860,2022-09-09 17:19:00,-,OLDBEN181740,NEWBEN462747,beneficiary_change

@@ -1,0 +1,5 @@
+account_id,timestamp,event_ref,detail1,detail2,evidence_type
+8003A6480,2022-09-05 02:44:00,A0001527,20d449fbc80036c2,Ukraine,access_anomaly
+8003A6480,2022-09-05 21:41:00,-,OLDBEN134276,SYNTHBEN924943,beneficiary_change
+8003A6480,2022-09-05 23:09:00,IBM0061718,34172.47,SYNTHBEN937239,fraudulent_transaction
+8003A6480,2022-09-07 03:33:00,-,OLDBEN194139,NEWBEN420314,beneficiary_change

@@ -1,0 +1,5 @@
+account_id,timestamp,event_ref,detail1,detail2,evidence_type
+800466FA0,2022-09-02 13:27:00,-,OLDBEN168146,NEWBEN434428,beneficiary_change
+800466FA0,2022-09-13 03:28:00,A0001728,cb9068677108575c,Nigeria,access_anomaly
+800466FA0,2022-09-14 00:10:00,-,OLDBEN127184,SYNTHBEN905120,beneficiary_change
+800466FA0,2022-09-14 01:04:00,IBM0061702,33196.67,SYNTHBEN941060,fraudulent_transaction

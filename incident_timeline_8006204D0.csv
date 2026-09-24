@@ -1,0 +1,4 @@
+account_id,timestamp,event_ref,detail1,detail2,evidence_type
+8006204D0,2022-09-09 03:08:00,A0002144,4b3404c587f8de7e,Nigeria,access_anomaly
+8006204D0,2022-09-09 13:43:00,-,OLDBEN132244,SYNTHBEN954352,beneficiary_change
+8006204D0,2022-09-09 14:08:00,IBM0061659,33594.28,SYNTHBEN959409,fraudulent_transaction
